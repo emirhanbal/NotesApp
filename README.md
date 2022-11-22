@@ -1,6 +1,8 @@
 # NotesApp
-In this project, I made a simple note application using Androdid Studio.
+###### In this project, I made a simple note application using Androdid Studio.
 
-![Screenshot_85](https://user-images.githubusercontent.com/58405854/203346808-d511492a-7b1f-4a57-8b41-0a2f8498da21.png)
-![Screenshot_86](https://user-images.githubusercontent.com/58405854/203346833-779310bb-26f6-4059-999a-2660d860349e.png)
-![Screenshot_87](https://user-images.githubusercontent.com/58405854/203346854-89f229b6-a992-4cbb-bb08-13f37ddf5d62.png)
+![Screenshot_85 (2)](https://user-images.githubusercontent.com/58405854/203347912-744bd10e-c28b-4fdb-b771-e7a33d537334.png)
+![Screenshot_86 (3)](https://user-images.githubusercontent.com/58405854/203348018-7deb0d03-fa38-4eac-aac4-a5d265e9a967.png)
+![Screenshot_87 (2)](https://user-images.githubusercontent.com/58405854/203348044-65592a1a-d8ed-422d-9088-47b189968af2.png)
+
+
